@@ -1,0 +1,43 @@
+# Compiled bytecode
+*.class
+
+# Build artifacts
+/target/
+/bin/
+/build/
+/out/
+
+# IDE files
+/.idea/
+/.vscode/
+/.project
+/.classpath
+
+# Maven
+/.mvn/
+target/
+
+# Gradle
+/.gradle/
+build/
+
+# Eclipse
+/.settings/
+*.log
+*.tmp
+
+# Logs
+*.log
+log/
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# JAR files
+*.jar
